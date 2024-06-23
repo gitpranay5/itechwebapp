@@ -7,7 +7,7 @@ $result = $conn->query($sql);
 
 <html>
 <head>
-    <title>HR Website - Employees</title>
+    <title>HR Website - Employees of itech pvt ltd </title>
 </head>
 <body>
     <h1>Employees</h1>
